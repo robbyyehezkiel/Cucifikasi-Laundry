@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293742003708",
+    "project_id": "cucifikasi-laundry",
+    "storage_bucket": "cucifikasi-laundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293742003708:android:634ca8f3ed74df3b531e79",
+        "android_client_info": {
+          "package_name": "com.example.cucifikasi_laundry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlQ_l7Se1kG3dL0mDBJ2D5iSODo0DK00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
